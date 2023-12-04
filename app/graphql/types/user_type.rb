@@ -5,7 +5,7 @@ module Types
     field :email, String
     field :password, String
     field :password_confirmation, String
-    field :UserName, String
+    field :user_name, String
     field :confirmed, Boolean
   end
 end
