@@ -68,3 +68,9 @@ group :test do
   gem "selenium-webdriver"
 end
 gem "graphiql-rails", group: :development
+
+gem "factory_bot", "~> 6.4"
+
+gem "rspec", "~> 3.12"
+
+gem "faker", "~> 3.2"
